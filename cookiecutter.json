@@ -1,14 +1,14 @@
 {
-    "full_name": "Name or Organization",
-    "email": "",
-    "github_username": "",
+    "full_name": "Charles Y. Zheng",
+    "email": "charles.y.zheng@gmail.com",
+    "github_username": "snarles",
     "project_name": "Your Project Name",
     "package_dist_name": "{{ cookiecutter.project_name|replace(' ', '-')|lower }}",
     "package_dir_name": "{{ cookiecutter.project_name|replace(' ', '_')|lower }}",
     "package_dist_name": "{{ cookiecutter.project_name|replace(' ', '-')|lower }}",
     "repo_name": "{{ cookiecutter.project_name|replace(' ', '-')|lower }}",
     "project_short_description": "Python package for doing science.",
-    "year": "2018",
+    "year": "2019",
     "minimum_supported_python_version": ["3.6", "3.7", "3.5", "3.4"],
     "_copy_without_render": [
         "*.html",
